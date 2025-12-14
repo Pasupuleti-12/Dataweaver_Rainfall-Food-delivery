@@ -1,0 +1,4 @@
+# file: C:\Users\Lenovo\AppData\Roaming\Python\Python312\site-packages\pandas\core\internals\construction.py
+# hypothesis_version: 6.148.6
+
+['O', 'U', 'array', 'block', 'dtype', 'index', 'iufb', 'mM', 'name', 'ndim', 'numpy', 'object', 'pyarrow_numpy']

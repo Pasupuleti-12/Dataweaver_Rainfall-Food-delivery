@@ -1,0 +1,4 @@
+# file: C:\Users\Lenovo\AppData\Roaming\Python\Python312\site-packages\streamlit\connections\sql_connection.py
+# hypothesis_version: 6.148.6
+
+['.', 'AUTOCOMMIT', 'Engine', '_', 'create_engine_kwargs', 'database', 'dialect', 'driver', 'host', 'password', 'port', 'query', 'url', 'username']

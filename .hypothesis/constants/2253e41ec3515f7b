@@ -1,0 +1,4 @@
+# file: C:\Users\Lenovo\AppData\Roaming\Python\Python312\site-packages\pandas\util\_tester.py
+# hypothesis_version: 6.148.6
+
+['--doctest-cython', '--doctest-modules', 'hypothesis', 'pytest', 'test']

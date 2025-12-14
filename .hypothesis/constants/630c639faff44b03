@@ -1,0 +1,4 @@
+# file: C:\Users\Lenovo\AppData\Roaming\Python\Python312\site-packages\streamlit\proto\Block_pb2.py
+# hypothesis_version: 6.148.6
+
+[b'\n\x1ccom.snowflake.apps.streamlitB\nBlockProto', 445, 487, 489, 514, 517, 638, 690, 692, 769, 772, 882, 917, 929, 931, 1020, 1022, 1036, 1038, 1058, 1060, 1159, 1162, 1259, 1303, 1318, 'DESCRIPTOR', '_BLOCK', '_BLOCK_CHATMESSAGE', '_BLOCK_COLUMN', '_BLOCK_DIALOG', '_BLOCK_EXPANDABLE', '_BLOCK_FORM', '_BLOCK_HORIZONTAL', '_BLOCK_POPOVER', '_BLOCK_TAB', '_BLOCK_TABCONTAINER', '_BLOCK_VERTICAL']

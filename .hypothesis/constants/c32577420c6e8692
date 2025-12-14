@@ -1,0 +1,4 @@
+# file: C:\Users\Lenovo\AppData\Roaming\Python\Python312\site-packages\numpy\lib\_ufunclike_impl.py
+# hypothesis_version: 6.148.6
+
+['fix', 'isneginf', 'isposinf', 'numpy']

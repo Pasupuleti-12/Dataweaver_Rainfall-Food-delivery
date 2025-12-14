@@ -1,0 +1,4 @@
+# file: C:\Users\Lenovo\AppData\Roaming\Python\Python312\site-packages\pandas\core\arrays\_mixins.py
+# hypothesis_version: 6.148.6
+
+['C', 'F', 'K', 'M', 'argmax', 'argmin', 'i8', 'inside', 'left', 'm', 'outside', 'right', 'skipna']

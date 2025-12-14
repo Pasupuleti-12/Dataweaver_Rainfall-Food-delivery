@@ -1,0 +1,4 @@
+# file: C:\Kiro\Dataweaver_Rainfall-Food-delivery\models.py
+# hypothesis_version: 6.148.6
+
+['date', 'orders', 'rainfall']

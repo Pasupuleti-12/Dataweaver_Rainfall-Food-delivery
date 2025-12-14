@@ -1,0 +1,4 @@
+# file: C:\Users\Lenovo\AppData\Roaming\Python\Python312\site-packages\streamlit\elements\widgets\time_widgets.py
+# hypothesis_version: 6.148.6
+
+['%H:%M', '%Y/%m/%d', 'DeltaGenerator', 'YYYY/MM/DD', 'date_input', 'now', 'string_array_value', 'string_value', 'time_input', 'today', 'visible']

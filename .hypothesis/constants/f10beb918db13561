@@ -1,0 +1,4 @@
+# file: C:\Users\Lenovo\AppData\Roaming\Python\Python312\site-packages\streamlit\elements\plotly_chart.py
+# hypothesis_version: 6.148.6
+
+['BaseFigure', 'DeltaGenerator', 'box', 'config', 'go.Data', 'go.Figure', 'ignore', 'lasso', 'linkText', 'link_text', 'plotly_chart', 'point_indices', 'points', 'rerun', 'selection', 'sharing', 'showLink', 'show_link', 'streamlit', 'string_value']

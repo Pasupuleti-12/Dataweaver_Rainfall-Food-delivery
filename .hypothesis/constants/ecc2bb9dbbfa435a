@@ -1,0 +1,4 @@
+# file: C:\Users\Lenovo\AppData\Roaming\Python\Python312\site-packages\streamlit\proto\NewSession_pb2.py
+# hypothesis_version: 6.148.6
+
+[b'\n\x1ccom.snowflake.apps.streamlitB\x0fNewSessionProto', 105, 398, 401, 587, 590, 800, 863, 869, 872, 1455, 1487, 1489, 1543, 1640, 1642, 1712, 1714, 1774, 1776, 1860, 1862, 1931, 1933, 2001, 'DESCRIPTOR', '_CONFIG', '_CONFIG_TOOLBARMODE', '_CUSTOMTHEMECONFIG', '_ENVIRONMENTINFO', '_FONTFACE', '_FONTSIZES', '_INITIALIZE', '_NEWSESSION', '_RADII', '_USERINFO']

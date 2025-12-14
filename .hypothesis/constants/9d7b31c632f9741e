@@ -1,0 +1,4 @@
+# file: C:\Users\Lenovo\AppData\Roaming\Python\Python312\site-packages\pandas\core\ops\mask_ops.py
+# hypothesis_version: 6.148.6
+
+['and', 'or', 'xor']

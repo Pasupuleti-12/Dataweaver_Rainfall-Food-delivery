@@ -1,0 +1,4 @@
+# file: C:\Users\Lenovo\AppData\Roaming\Python\Python312\site-packages\streamlit\elements\lib\built_in_chart_utils.py
+# hypothesis_version: 6.148.6
+
+[0.5, 0.7, 100, ', ', '5.0.0', 'DOES_NOT_EXIST', 'area', 'area_chart', 'bar', 'bar_chart', 'boolean', 'bottom', 'bytes', 'categorical', 'center', 'circle', 'color', 'color_column', 'command', 'complex', 'date', 'datetime', 'datetime64', 'floating', 'horizontal', 'index', 'integer', 'layered', 'legend', 'line', 'line_chart', 'mark_type', 'mixed', 'mixed-integer', 'mixed-integer-float', 'nominal', 'normalize', 'object', 'offset', 'ordinal', 'orient', 'period', 'pointerout', 'pointerover', 'quantitative', 'scale', 'scatter_chart', 'size_column', 'stack', 'step', 'stop', 'string', 'stroke', 'temporal', 'time', 'timedelta', 'timedelta64', 'title', 'titlePadding', 'unicode', 'value', 'x_column', 'y_column_list']

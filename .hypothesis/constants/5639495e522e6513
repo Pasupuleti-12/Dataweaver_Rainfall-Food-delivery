@@ -1,0 +1,4 @@
+# file: C:\Users\Lenovo\AppData\Roaming\Python\Python312\site-packages\streamlit\elements\layouts.py
+# hypothesis_version: 6.148.6
+
+['DeltaGenerator', 'bottom', 'center', 'columns', 'complete', 'container', 'error', 'expander', 'large', 'medium', 'popover', 'running', 'small', 'status', 'tabs', 'top']

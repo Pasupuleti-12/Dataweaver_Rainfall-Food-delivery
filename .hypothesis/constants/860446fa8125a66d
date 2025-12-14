@@ -1,0 +1,4 @@
+# file: C:\Users\Lenovo\AppData\Roaming\Python\Python312\site-packages\streamlit\user_info.py
+# hypothesis_version: 6.148.6
+
+['/auth/login', '/auth/logout', 'default', 'is_logged_in', 'login', 'logout', 'server.baseUrlPath']

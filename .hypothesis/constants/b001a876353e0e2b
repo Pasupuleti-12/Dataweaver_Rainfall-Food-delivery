@@ -1,0 +1,4 @@
+# file: C:\Users\Lenovo\AppData\Roaming\Python\Python312\site-packages\pandas\compat\_constants.py
+# hypothesis_version: 6.148.6
+
+['HOST_GNU_TYPE', 'IS64', 'ISMUSL', 'PY310', 'PY311', 'PY312', 'PYPY', 'PyPy', 'musl']

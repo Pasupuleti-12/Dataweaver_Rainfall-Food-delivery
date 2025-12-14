@@ -1,0 +1,4 @@
+# file: C:\Users\Lenovo\AppData\Roaming\Python\Python312\site-packages\streamlit\elements\widgets\slider.py
+# hypothesis_version: 6.148.6
+
+[0.0, 0.01, 1.0, 100, 1000, 1970, 2000, '%0.2f', '%d', 'DeltaGenerator', 'HH:mm', 'SliderDatelikeT', 'SliderNumericT', 'SliderValueT', 'YYYY-MM-DD', '`max_value`', '`min_value`', 'double_array_value', 'format', 'max_type', 'max_value', 'min_type', 'min_value', 'slider', 'step', 'value_type', 'visible']

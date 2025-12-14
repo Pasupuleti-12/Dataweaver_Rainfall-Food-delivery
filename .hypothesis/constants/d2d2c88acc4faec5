@@ -1,0 +1,4 @@
+# file: C:\Users\Lenovo\AppData\Roaming\Python\Python312\site-packages\scipy\sparse\linalg\_norm.py
+# hypothesis_version: 6.148.6
+
+['A', 'csr', 'f', 'fro', 'lobpcg', 'norm', 'toarray']

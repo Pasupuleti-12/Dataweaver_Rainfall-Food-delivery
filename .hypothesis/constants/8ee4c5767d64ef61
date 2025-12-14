@@ -1,0 +1,4 @@
+# file: C:\Users\Lenovo\AppData\Roaming\Python\Python312\site-packages\pandas\core\dtypes\base.py
+# hypothesis_version: 6.148.6
+
+['ExtensionDtype', 'ExtensionDtypeT', 'O', 'dtype', 'storage']

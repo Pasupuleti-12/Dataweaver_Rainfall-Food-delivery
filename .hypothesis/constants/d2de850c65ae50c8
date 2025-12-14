@@ -1,0 +1,4 @@
+# file: C:\Users\Lenovo\AppData\Roaming\Python\Python312\site-packages\streamlit\elements\lib\column_types.py
+# hypothesis_version: 6.148.6
+
+['accounting', 'area_chart', 'bar_chart', 'calendar', 'center', 'checkbox', 'column_config.Column', 'compact', 'date', 'datetime', 'distance', 'dollar', 'engineering', 'euro', 'image', 'iso8601', 'json', 'large', 'left', 'line_chart', 'link', 'list', 'localized', 'medium', 'number', 'object', 'percent', 'plain', 'progress', 'right', 'scientific', 'selectbox', 'small', 'text', 'time']

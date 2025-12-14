@@ -1,0 +1,4 @@
+# file: C:\Users\Lenovo\AppData\Roaming\Python\Python312\site-packages\numpy\fft\_helper.py
+# hypothesis_version: 6.148.6
+
+[1.0, 'fftfreq', 'fftshift', 'ifftshift', 'numpy.fft', 'rfftfreq']

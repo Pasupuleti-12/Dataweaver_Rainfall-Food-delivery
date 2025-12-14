@@ -1,0 +1,4 @@
+# file: C:\Users\Lenovo\AppData\Roaming\Python\Python312\site-packages\streamlit\runtime\app_session.py
+# hypothesis_version: 6.148.6
+
+[', ', '.', '.git', 'APP_IS_RUNNING', 'APP_NOT_RUNNING', 'No handler for "%s"', 'SHUTDOWN_REQUESTED', '_', 'app_heartbeat', 'base', 'clear_cache', 'client.toolbarMode', 'context_info', 'dark', 'file_urls_request', 'font', 'fontFaces', 'icon', 'light', 'load_git_info', 'none', 'page_name', 'rerun_script', 'runner.fastReruns', 'script_path', 'server.runOnSave', 'set_run_on_save', 'stop_script', 'theme', 'type', 'ui.hideTopBar']

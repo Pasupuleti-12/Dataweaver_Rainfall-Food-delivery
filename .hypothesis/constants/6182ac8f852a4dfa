@@ -1,0 +1,4 @@
+# file: C:\Users\Lenovo\AppData\Roaming\Python\Python312\site-packages\streamlit\elements\arrow.py
+# hypothesis_version: 6.148.6
+
+[100, 'DeltaGenerator', 'add_rows', 'add_rows_metadata', 'arrow_data_frame', 'arrow_table', 'columns', 'dataframe', 'hidden', 'ignore', 'multi-column', 'multi-row', 'rerun', 'rows', 'selection', 'single-column', 'single-row', 'string_value', 'table']

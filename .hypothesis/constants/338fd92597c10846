@@ -1,0 +1,4 @@
+# file: C:\Users\Lenovo\AppData\Roaming\Python\Python312\site-packages\streamlit\string_util.py
+# hypothesis_version: 6.148.6
+
+[1000.0, 127, 256, 1000, '(.)([A-Z][a-z]+)', '([a-z0-9])([A-Z])', '.', '0', ':material', '\\1_\\2', '^\\s*:(.+)\\/(.+):\\s*$', 'b', 'k', 'm', 'material', 't', '{}{}', '\u200b', '️']

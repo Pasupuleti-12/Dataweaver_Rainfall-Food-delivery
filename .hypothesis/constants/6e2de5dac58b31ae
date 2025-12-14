@@ -1,0 +1,4 @@
+# file: C:\Users\Lenovo\AppData\Roaming\Python\Python312\site-packages\streamlit\elements\widgets\data_editor.py
+# hypothesis_version: 6.148.6
+
+['DeltaGenerator', 'EditableData', 'Styler', '_', 'added_rows', 'arrow_data_frame', 'data_editor', 'deleted_rows', 'disabled', 'dynamic', 'edited_rows', 'fixed', 'hidden', 'pa.Table', 'pd.DataFrame', 'pd.Index', 'pd.Series', 'required', 'string', 'string_value', 'type', 'type_config']

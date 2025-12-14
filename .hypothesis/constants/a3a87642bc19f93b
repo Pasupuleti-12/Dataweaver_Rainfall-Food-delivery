@@ -1,0 +1,4 @@
+# file: C:\Users\Lenovo\AppData\Roaming\Python\Python312\site-packages\streamlit\runtime\caching\hashing.py
+# hypothesis_version: 6.148.6
+
+[b'%s', b'%s:%s', b'0', b'1', 10000, 50000, 100000, 500000, '<d', '@st.cache_data', '@st.cache_resource', 'PIL.Image.Image', '__l', '__name__', 'a function', 'cache_primitive', 'failed_obj_type_str', 'hash_func_name', 'hash_stack', 'little', 'md5', 'name', 'np.ndarray[Any, Any]', 'numpy.ndarray', 'numpy.ufunc', 'object_desc', 'orig_exception_desc', 'something', 'uint8', 'unittest.mock.Mock', 'wonthappen']
