@@ -13,20 +13,16 @@ Enterprise logistics networks lose millions to operational friction when unpredi
 
 ## 2. Production Architecture
 The engine rejects monolithic design in favor of a modular, decoupled three-layer architecture designed for high throughput and rapid development iteration:
-┌────────────────────────────────────────────────────────┐
-│            Presentation Layer (Streamlit UI)           │
-│  Minimizes user cognitive load via responsive charts   │
-└───────────────────────────┬────────────────────────────┘
-│
-┌───────────────────────────▼────────────────────────────┐
-│         Business Logic Layer (Data Processing)        │
-│    Data validation, date joining, summary statistics   │
-└───────────────────────────┬────────────────────────────┘
-│
-┌───────────────────────────▼────────────────────────────┐
-│                Data Layer (CSV Ingestion)              │
-│    Immutable Python Dataclasses & Strict Type Schema    │
-└────────────────────────────────────────────────────────┘
+
+> **Presentation Layer (Streamlit UI)**  
+> 📊 *Minimizes user cognitive load via responsive charts*  
+>  ↓  
+> **Business Logic Layer (Data Processing)**  
+> ⚙️ *Data validation, date joining, and summary statistics*  
+>  ↓  
+> **Data Layer (CSV Ingestion)**  
+> 🗄️ *Immutable Python Dataclasses & Strict Type Schema*
+
 *   **Presentation Layer (`DashboardController`):** Organizes multi-series time-series and correlation scatter plots cleanly with appropriate spacing, minimizing cognitive load for operations managers.
 *   **Business Logic Layer (`DataLoader` & `ChartGenerator`):** Handles automated type-casting, string parsing, and inner-join data alignment across disjointed date keys, isolating corrupted inputs from crashing the execution loop.
 *   **Data Layer (Strict Data Models):** Standardizes unstructured raw inputs into strongly typed, immutable Python `dataclasses` (`RainfallRecord` and `DeliveryRecord`) to enforce bulletproof schema validation at the door.
